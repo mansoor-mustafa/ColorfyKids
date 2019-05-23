@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "specialized UIImageView.(downloadImage(String, path : String) -&gt; ()).(closure #1).(closure #1):CollectionViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "path">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "specialized CollectionViewController.collectionView(UICollectionView, numberOfItemsInSection : Int) -&gt; Int:CollectionViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "DataManager.lengthForCategory(index : Int) -&gt; Int:DataManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "visibleCount">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DataManager.init() -&gt; DataManager:DataManager.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
