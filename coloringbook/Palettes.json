@@ -1,0 +1,375 @@
+{
+    "palettes": [
+                 {
+                 "title": "Roller Rink",
+                 "colors": [
+                            "26284B",
+                            "00545B",
+                            "00C481",
+                            "A9DB5A",
+                            "FCC035",
+                            "F16A25",
+                            "F02540",
+                            "A3275F",
+                            "721463"
+                            ]
+                 },
+                 {
+                 "title": "Vintage Sweater",
+                 "colors": [
+                            "fed59a",
+                            "ffbc80",
+                            "f16441",
+                            "fe8d52",
+                            "d6c75b",
+                            "9d9d7e",
+                            "b50000",
+                            "800000",
+                            "5a485a"
+                            ]
+                 },
+                 {
+                 "title": "Candy Store",
+                 "colors": [
+                            "417D69",
+                            "71C592",
+                            "EAD889",
+                            "5397C6",
+                            "F3966C",
+                            "C05067",
+                            "9260B8",
+                            "E477A3",
+                            "E2578B"
+                            ]
+                 },
+                 {
+                 "title": "Flower Basket",
+                 "colors": [
+                            "FCE8C5",
+                            "FFFEDD",
+                            "FC9998",
+                            "FFDABD",
+                            "FFA900",
+                            "9FD6CC",
+                            "4D4F4E",
+                            "A3997F",
+                            "5A485A"
+                            ]
+                 },
+                 {
+                 "title": "Hummingbird",
+                 "premium": true,
+                 "colors": [
+                            "FCEBB7",
+                            "F0A830",
+                            "F07818",
+                            "D65C37",
+                            "5E412F",
+                            "68727B",
+                            "6991AB",
+                            "78C0A8",
+                            "C3D7DE"
+                            ]
+                 },
+                 {
+                 "title": "Soda Pop",
+                 "colors": [
+                            "E8B81A",
+                            "FFA200",
+                            "DB3440",
+                            "982395",
+                            "0086CB",
+                            "28ABE3",
+                            "25A8AC",
+                            "20DA9B",
+                            "00A03E"
+                            ]
+                 },
+                 {
+                 "title": "Toy Box",
+                 "colors": [
+                            "BFF073",
+                            "82AA30",
+                            "0DC9F8",
+                            "4D6684",
+                            "7F7F7F",
+                            "3D3D3D",
+                            "EF5B47",
+                            "E74701",
+                            "EC1C24"
+                            ]
+                 },
+                 {
+                 "title": "Sunset",
+                 "colors": [
+                            "69D2E7",
+                            "A1D7D9",
+                            "A8DBDC",
+                            "BFE1BF",
+                            "E0E4CC",
+                            "FDD059",
+                            "F48631",
+                            "F96900",
+                            "DE5942"
+                            ]
+                 },
+                 {
+                 "title": "Thrift Shop",
+                 "premium": true,
+                 "colors": [
+                            "D79C8C",
+                            "EF9950",
+                            "F17D80",
+                            "747496",
+                            "6D8671",
+                            "69A8AD",
+                            "28BD9B",
+                            "92DBDF",
+                            "C4D4AF"
+                            ]
+                 },
+                 {
+                 "title": "Rainbow",
+                 "colors": [
+                            "BD10E0",
+                            "4A90E2",
+                            "50E3C2",
+                            "B8E986",
+                            "61F848",
+                            "FFF200",
+                            "FFA900",
+                            "FF7000",
+                            "F62500"
+                            ]
+                 },
+                 {
+                 "title": "Beach Time",
+                 "colors": [
+                            "B44221",
+                            "F3673E",
+                            "FFC752",
+                            "CCC75E",
+                            "78C9A3",
+                            "43B7DB",
+                            "408BCD",
+                            "94638E",
+                            "7B4B75"
+                            ]
+                 },
+                 {
+                 "title": "Tea Time",
+                 "premium": true,
+                 "colors": [
+                            "E2D893",
+                            "A79E65",
+                            "73AFB7",
+                            "609DA0",
+                            "A68572",
+                            "73503C",
+                            "591E22",
+                            "2C2302",
+                            "D94D66"
+                            ]
+                 },
+                 {
+                 "title": "Eclectic",
+                 "premium": true,
+                 "colors": [
+                            "FAC8BF",
+                            "90C5A9",
+                            "F8E1B5",
+                            "F98A5F",
+                            "CCCCCC",
+                            "698D9D",
+                            "466675",
+                            "775CA3",
+                            "442D65"
+                            ]
+                 },
+                 {
+                 "title": "Mellow Vibes",
+                 "colors": [
+                            "8F9283",
+                            "EAD889",
+                            "F3966C",
+                            "E3644E",
+                            "9AC086",
+                            "7B9FB1",
+                            "5397C6",
+                            "417D69",
+                            "515749"
+                            ]
+                 },
+                 {
+                 "title": "Mossy Stones",
+                 "colors": [
+                            "F2FDD9",
+                            "CFEABF",
+                            "F7E7D2",
+                            "F8BAB4",
+                            "AAD198",
+                            "005557",
+                            "004E7F",
+                            "004D9A",
+                            "0061C4"
+                            ]
+                 },
+                 {
+                 "title": "Flower Bouquet",
+                 "colors": [
+                            "FFE1B5",
+                            "FF9800",
+                            "FF7700",
+                            "CE2153",
+                            "AAA8FF",
+                            "F8BEE8",
+                            "CE6499",
+                            "9B3166",
+                            "520936"
+                            ]
+                 },
+                 {
+                 "title": "Rainforest",
+                 "premium": true,
+                 "colors": [
+                            "F76834",
+                            "F05E57",
+                            "483620",
+                            "363636",
+                            "83683B",
+                            "A68F59",
+                            "84BF17",
+                            "B8BE1C",
+                            "DCDDCD"
+                            ]
+                 },
+                 {
+                 "title": "Succulent Garden",
+                 "premium": true,
+                 "colors": [
+                            "E94C6F",
+                            "AA2159",
+                            "56102C",
+                            "5A6962",
+                            "009C98",
+                            "7EC2AB",
+                            "C6D6CC",
+                            "FDF300",
+                            "BCC747"
+                            ]
+                 },
+                 {
+                 "title": "Neon",
+                 "colors": [
+                            "00C4E9",
+                            "00E7CC",
+                            "5EFF63",
+                            "00DD00",
+                            "FFEA00",
+                            "FF9B14",
+                            "FF5058",
+                            "FF00AA",
+                            "9B03FC"
+                            ]
+                 },
+                 {
+                 "title": "Tree Line",
+                 "colors": [
+                            "E0C378",
+                            "C08220",
+                            "8D5100",
+                            "553000",
+                            "CBEAC6",
+                            "95CE7D",
+                            "3C972F",
+                            "006604",
+                            "003C02"
+                            ]
+                 },
+                 {
+                 "title": "Gelatin",
+                 "premium": true,
+                 "colors": [
+                            "F9FBBA",
+                            "CCC51B",
+                            "FEE600",
+                            "FFAC00",
+                            "EF5A28",
+                            "FF432E",
+                            "B9206F",
+                            "10206B",
+                            "3A0C55"
+                            ]
+                 },
+                 {
+                 "title": "Oceanography",
+                 "colors": [
+                            "F7FCEF",
+                            "DFF3DA",
+                            "CBECC4",
+                            "A6DEB4",
+                            "78CCC4",
+                            "48B3D5",
+                            "238BC0",
+                            "0066AE",
+                            "023E83"
+                            ]
+                 },
+                 {
+                 "title": "Lily Pad",
+                 "colors": [
+                            "FFFEE4",
+                            "F7FDB6",
+                            "D9F19F",
+                            "ACDE8A",
+                            "75C776",
+                            "3DAC5A",
+                            "1C8540",
+                            "006935",
+                            "004628"
+                            ]
+                 },
+                 {
+                 "title": "Black & White",
+                 "colors": [
+                            "FFFFFF",
+                            "F3F3F3",
+                            "DADADA",
+                            "C3C3C3",
+                            "C9C9C9",
+                            "B0B0B0",
+                            "878787",
+                            "5A5A5A",
+                            "000000"
+                            ]
+                 },
+                 {
+                 "title": "Skin Tones",
+                 "colors": [
+                            "3C2E28",
+                            "5A453C",
+                            "785C50",
+                            "967264",
+                            "B48A78",
+                            "D2A18C",
+                            "F0B8A0",
+                            "FFCEB4",
+                            "FFE5C8"
+                            ]
+                 },
+                 {
+                 "title": "Metals",
+                 "colors": [
+                            "E0C572",
+                            "BDA53B",
+                            "B0856D",
+                            "AD6531",
+                            "9D9D93",
+                            "878F9D",
+                            "827E75",
+                            "6C6747",
+                            "342F2B"
+                            ]
+                 }
+                ]
+}
